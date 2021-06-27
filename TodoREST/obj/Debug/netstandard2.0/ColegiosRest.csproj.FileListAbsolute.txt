@@ -1,0 +1,12 @@
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\obj\Debug\netstandard2.0\ColegiosRest.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\obj\Debug\netstandard2.0\ColegiosRest.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\obj\Debug\netstandard2.0\ColegiosRest.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\obj\Debug\netstandard2.0\ColegiosRest.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\bin\Debug\netstandard2.0\ColegiosRest.deps.json
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\bin\Debug\netstandard2.0\ColegiosRest.dll
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\bin\Debug\netstandard2.0\ColegiosRest.pdb
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\obj\Debug\netstandard2.0\ColegiosRest.dll
+C:\Users\Fernando\source\repos\TodoRest-CRUD-API\TodoREST\obj\Debug\netstandard2.0\ColegiosRest.pdb
